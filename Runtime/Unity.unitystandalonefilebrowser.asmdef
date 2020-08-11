@@ -1,6 +1,6 @@
 {
-    "name": "Unity.pkg-template",
-    "rootNamespace": "pkg-template",
+    "name": "Unity.unitystandalonefilebrowser",
+    "rootNamespace": "StandaloneFileBrowser",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

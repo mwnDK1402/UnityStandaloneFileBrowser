@@ -1,8 +1,8 @@
 {
-    "name": "Unity.pkg-template.Tests",
-    "rootNamespace": "",
+    "name": "Unity.unitystandalonefilebrowser.Tests",
+    "rootNamespace": "StandaloneFileBrowser",
     "references": [
-        "Unity.pkg-template",
+        "Unity.unitystandalonefilebrowser",
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner"
     ],

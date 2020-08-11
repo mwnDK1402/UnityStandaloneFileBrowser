@@ -1,16 +1,16 @@
 {
-  "name": "com.wagner.pkg-template",
-  "version": "0.1.7",
-  "displayName": "Package Template",
-  "description": "This is a template package",
-  "unity": "2019.4",
-  "unityRelease": "3f1",
+  "name": "com.wagner.unitystandalonefilebrowser",
+  "version": "0.1.0",
+  "displayName": "UnityStandaloneFileBrowser",
+  "description": "UPM package based on https://github.com/gkngkc/UnityStandaloneFileBrowser.",
+  "unity": "2020.1",
+  "unityRelease": "1f1",
   "author": {
     "name": "Wagner",
     "email": "mathiasvalentinwagner@gmail.com",
     "url": "https://github.com/mwnDK1402"
   },
-  "type": "template",
+  "type": "library",
   "devDependencies": {
     "standard-version": "^8.0.2"
   },

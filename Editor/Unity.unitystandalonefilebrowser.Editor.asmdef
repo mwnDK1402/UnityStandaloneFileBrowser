@@ -1,0 +1,14 @@
+{
+    "name": "Unity.unitystandalonefilebrowser.Editor",
+    "rootNamespace": "StandaloneFileBrowser",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
