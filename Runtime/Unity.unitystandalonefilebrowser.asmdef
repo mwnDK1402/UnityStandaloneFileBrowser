@@ -1,6 +1,6 @@
 {
     "name": "Unity.unitystandalonefilebrowser",
-    "rootNamespace": "StandaloneFileBrowser",
+    "rootNamespace": "SFB",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

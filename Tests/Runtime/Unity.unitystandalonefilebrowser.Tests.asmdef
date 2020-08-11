@@ -1,6 +1,6 @@
 {
     "name": "Unity.unitystandalonefilebrowser.Tests",
-    "rootNamespace": "StandaloneFileBrowser",
+    "rootNamespace": "SFB",
     "references": [
         "Unity.unitystandalonefilebrowser",
         "UnityEngine.TestRunner",
