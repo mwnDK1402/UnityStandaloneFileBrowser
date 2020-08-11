@@ -1,0 +1,21 @@
+{
+  "name": "com.wagner.pkg-template",
+  "version": "0.1.7",
+  "displayName": "Package Template",
+  "description": "This is a template package",
+  "unity": "2019.4",
+  "unityRelease": "3f1",
+  "author": {
+    "name": "Wagner",
+    "email": "mathiasvalentinwagner@gmail.com",
+    "url": "https://github.com/mwnDK1402"
+  },
+  "type": "template",
+  "devDependencies": {
+    "standard-version": "^8.0.2"
+  },
+  "scripts": {
+    "release": "standard-version",
+    "publish": "git push --follow-tags origin master"
+  }
+}
