@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/mwnDK1402/pkg-dev/compare/v0.1.2...v0.1.3) (2021-06-30)
+
+
+### Bug Fixes
+
+* correct Assembly Definitions ([539c3de](https://github.com/mwnDK1402/pkg-dev/commit/539c3de11071fc5437e6e77aeefbe369bcf880f0))
+
 ### [0.1.2](https://github.com/mwnDK1402/pkg-dev/compare/v0.1.1...v0.1.2) (2020-08-11)
 
 

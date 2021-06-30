@@ -1,6 +1,6 @@
 {
   "name": "com.wagner.unitystandalonefilebrowser",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "displayName": "UnityStandaloneFileBrowser",
   "description": "UPM package based on https://github.com/gkngkc/UnityStandaloneFileBrowser.",
   "unity": "2020.1",
