@@ -51,7 +51,9 @@ PluginImporter:
     second:
       enabled: 1
       settings:
+        CPU: AnyCPU
         DefaultValueInitialized: true
+        OS: Windows
   - first:
       Facebook: Win
     second:
