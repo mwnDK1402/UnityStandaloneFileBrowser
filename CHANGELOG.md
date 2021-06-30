@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/mwnDK1402/pkg-dev/compare/v0.1.3...v0.1.4) (2021-06-30)
+
+
+### Bug Fixes
+
+* update package with moderate vulnerability ([f1cf7a4](https://github.com/mwnDK1402/pkg-dev/commit/f1cf7a404ed5a0c6817c8a4f5111bd2cd99d9689))
+* update packages with high vulnerabilities ([387f63d](https://github.com/mwnDK1402/pkg-dev/commit/387f63d00b1c5d0d58d772378dba9f48ceca676e))
+
 ### [0.1.3](https://github.com/mwnDK1402/pkg-dev/compare/v0.1.2...v0.1.3) (2021-06-30)
 
 
