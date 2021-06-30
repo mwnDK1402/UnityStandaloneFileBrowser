@@ -12,7 +12,7 @@
   },
   "type": "library",
   "devDependencies": {
-    "standard-version": "^8.0.2"
+    "standard-version": "^9.3.0"
   },
   "scripts": {
     "release": "standard-version",
