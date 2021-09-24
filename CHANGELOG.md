@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.5](https://github.com/mwnDK1402/pkg-dev/compare/v0.1.4...v0.1.5) (2021-09-24)
+
+
+### Bug Fixes
+
+* **game-ci:** make compatible with Game-CI Image ([44b1eee](https://github.com/mwnDK1402/pkg-dev/commit/44b1eee0300cb59e153714e166fcd34c02f805f2)), closes [#6](https://github.com/mwnDK1402/pkg-dev/issues/6)
+
 ### [0.1.4](https://github.com/mwnDK1402/pkg-dev/compare/v0.1.3...v0.1.4) (2021-06-30)
 
 
